@@ -2,7 +2,7 @@
 
 ### How to install
 
-> `npm i shoping-cart`
+`npm i shoping-cart`
 
 ### How to use
 
