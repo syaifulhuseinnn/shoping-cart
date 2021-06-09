@@ -1,0 +1,17 @@
+{
+  "name": "shoping-cart",
+  "version": "1.0.0",
+  "description": "shoping cart with JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+  },
+  "keywords": [
+    "shopingcart",
+    "shoping",
+    "cart"
+  ],
+  "author": "syaifulhuseinnn <syaifulhuseinnn@gmail.com> (https://www.github.com/syaifulhuseinnn)",
+  "license": "MIT"
+}
