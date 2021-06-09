@@ -1,6 +1,10 @@
 # shoping-cart
 
-## How to use
+### How to install
+
+> `npm i shoping-cart`
+
+### How to use
 
 ```
 const keranjang = require("shoping-cart");
